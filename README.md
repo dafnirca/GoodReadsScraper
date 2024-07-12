@@ -25,13 +25,6 @@ O projeto está em fase de desenvolvimento. As funcionalidades básicas foram im
 - Melhorias na robustez do scraping (tratamento de erros, verificação de conectividade)
 - Análises de dados mais avançadas
 
-## Exemplos de uso do projeto
-
-Aqui estão alguns exemplos visuais de como usar a aplicação:
-
-![Plot da Distribuição das Avaliações](images/rating_distribution.png)
-*Figura 1: Plot da Distribuição das Avaliações*
-
 ## Colaboradores
 
 <table>
@@ -46,17 +39,3 @@ Aqui estão alguns exemplos visuais de como usar a aplicação:
     </td>
   </tr>
 </table>
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Notas Adicionais
-
-Para mais informações e documentação detalhada, visite nosso [site oficial](https://example.com).
-
-### Links Úteis
-
-- [Documentação Completa](https://example.com/docs)
-- [Instruções de Uso](https://example.com/usage)
-- [FAQ](https://example.com/faq)
